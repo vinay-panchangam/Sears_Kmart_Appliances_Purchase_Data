@@ -36,7 +36,7 @@ Dataset 2
 Column Name | Description
 ------------ | -------------
 GID | Deduped hashed ID for a member
-CID | Hasehd unique ID for Sears Home Services customers – same member could have multiple of these.
+CID | Hashed unique ID for Sears Home Services customers – same member could have multiple of these.
 AGR_SUF_NO | Agreement suffix number. Unique number assigned for each agreement of a customer.
 CUR_ITM_CVR_QT | Number of items covered in the agreement. Protection Agreement can cover multiple items and this value indicates that. By default Home Warranty covers up to 10 appliances in a home and it shows 0 for these contracts.
 SVC_PRD_CD | Service Product Code: indicates the type of contract. PA1: Protection Agreement. HWP: Home Warranty
