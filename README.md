@@ -65,7 +65,7 @@ Dataset 3
 Column Name | Description
 ------------ | -------------
 GID | Deduped hashed ID for a member
-CID | Hasehd unique ID for Sears Home Services customers – same member could have multiple of these.
+CID | Hashed unique ID for Sears Home Services customers – same member could have multiple of these.
 SOID | Service order ID
 DIFFICULTY_LEVEL | Difficulty level of the service order
 SO_CRT_DT | Service order create date
