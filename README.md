@@ -32,6 +32,7 @@ points_burn | Reward point burned
 
 
 Dataset 2
+
 Column Name | Description
 ------------ | -------------
 GID | Deduped ID for a member
